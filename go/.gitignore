@@ -1,0 +1,18 @@
+.idea
+*.iml
+node_modules/
+.project
+.settings
+
+# Serverless directories
+.serverless
+
+# golang output binary directory
+bin
+
+# golang vendor (dependencies) directory
+vendor
+_vendor*
+
+test-results
+.vscode/

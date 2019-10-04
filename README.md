@@ -16,6 +16,7 @@ As the number of eclairs was increasing a lot, I thought it would be a good idea
 - rust
 - typescript
 - go
+- java
 - elm
 - haskell
 
