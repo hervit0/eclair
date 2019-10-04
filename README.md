@@ -21,7 +21,8 @@ As the number of eclairs was increasing a lot, I thought it would be a good idea
 
 ## Legacy eclairs
 
-- [eclair-ruby](https://github.com/hervit0/eclair-ruby)
+- [eclair-elixir](https://github.com/hervit0/eclair-elixir)
 - [eclair-scala](https://github.com/hervit0/eclair-scala)
 - [eclair-fsharp](https://github.com/hervit0/eclair-fsharp)
+- [eclair-ruby](https://github.com/hervit0/eclair-ruby)
 - [eclair-python](https://github.com/hervit0/eclair-python)
