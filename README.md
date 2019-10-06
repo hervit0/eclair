@@ -1,6 +1,6 @@
 # Eclair :zap:
 
-:fr: _lightining bolt_
+:fr: _lightning bolt_
 
 Eclair repos are personal repos to:
 - experiment
