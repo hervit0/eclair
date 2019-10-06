@@ -1,5 +1,8 @@
 # Eclair Typescript
 
+Following this [tutorial](https://www.typescriptlang.org/docs/handbook/classes.html).
+
+Configs:
 ```
 |> node -v
 v11.7.0
@@ -9,16 +12,16 @@ v11.7.0
 Version 3.6.3
 ```
 
-## Run things
-
-```
-tsc --target ES6 shape.ts && node shape
-```
-
 ## Initialize
 
 ```
 npm install -g typescript
 npm install -g standard
 tsc --init
+```
+
+## Run things
+
+```
+tsc --target ES6 shape.ts && node shape
 ```
