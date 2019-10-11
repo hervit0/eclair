@@ -1,5 +1,3 @@
-import {typeIsOrHasBaseType} from "tslint/lib/language/typeUtils";
-
 namespace Classes {
     export class Greeter {
         greeting: string;
