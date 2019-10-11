@@ -20,8 +20,16 @@ npm install -g standard
 tsc --init
 ```
 
+## Add deps
+
+```shell script
+npm i ts-node -D
+npm i aws -S
+```
+
 ## Run things
 
 ```
 tsc --target ES6 shape.ts && node shape
+npx ts-node tutorial/classes.ts
 ```
