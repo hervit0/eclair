@@ -19,3 +19,13 @@ export class CheeseFactory extends Factory {
     name: 'Cheese'
   });
 }
+
+export class WineFactory extends Factory {
+  constructor() {
+    super();
+  }
+
+  public createProduct = (): Product => ({
+    name: 'Wine'
+  });
+}
