@@ -1,5 +1,5 @@
-// export function addLetters(...letters: string[]) {
-// }
+export function addLetters(...letters: string[]) {
+}
 
 function f(ls: string[]) {
     if (ls.length == 0) return 'z';
