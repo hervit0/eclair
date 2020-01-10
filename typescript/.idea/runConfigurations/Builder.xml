@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Builder" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+    <node-interpreter value="$USER_HOME$/.asdf/shims/node" />
+    <node-options value="" />
+    <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+    <working-dir value="$PROJECT_DIR$" />
+    <envs />
+    <scope-kind value="SUITE" />
+    <test-file value="$PROJECT_DIR$/design-patterns/creational/builder.spec.ts" />
+    <test-names>
+      <test-name value="Builder" />
+    </test-names>
+    <method v="2" />
+  </configuration>
+</component>
