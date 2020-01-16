@@ -28,9 +28,6 @@ export class CheeseBuilder implements Builder {
     public label?: string;
     public safetyInfo?: string;
 
-    constructor() {
-    }
-
     public cheese(): CheeseBuilder {
         return this
     }
