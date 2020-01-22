@@ -17,6 +17,15 @@ class BookCover {
   }
 }
 
+const b: Book = {
+  wow: 1, year: 'fewa', title: 'fawe'
+};
+const a: Title = {
+  name: '213'
+};
+
+new BookCover(b, a);
+
 interface BookCoverBuilder {
   bookYear: string
   bookTitle: string
