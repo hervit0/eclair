@@ -13,7 +13,7 @@ class BookCover {
     public book: Pick<Book, 'year' | 'title'>,
     public author: Pick<Title, 'name'>
   ) {
-    this.book.wow; // compile error
+    // this.book.wow; // compile error
   }
 }
 
