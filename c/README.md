@@ -1,4 +1,6 @@
+https://www.learn-c.org/
+
 ```
-gcc learn-c/pointers.c
-./a.out
+gcc -o temp/exe learn-c/pointers.c
+./temp/exe
 ```
