@@ -1,12 +1,19 @@
-package kata
+package kata_test
 
 import (
+	kata "github.com/hervit0/eclair/go/codewars/kyu4/sum-by-factors"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	"testing"
 )
 
+func Test(t *testing.T) {
+	RegisterFailHandler(Fail)
+	RunSpecs(t, "Add that block and the 'testing' framework in the import")
+}
+
 func dotest(lst []int, exp string) {
-	var ans = SumOfDivided(lst)
+	var ans = kata.SumOfDivided(lst)
 	Expect(ans).To(Equal(exp))
 }
 
